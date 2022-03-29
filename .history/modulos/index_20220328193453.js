@@ -1,0 +1,1 @@
+var somaFunc = require('./soma')

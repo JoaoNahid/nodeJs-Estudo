@@ -1,0 +1,3 @@
+var somaFunc = require('./soma')
+
+console.log(somaFunc(20,30))
